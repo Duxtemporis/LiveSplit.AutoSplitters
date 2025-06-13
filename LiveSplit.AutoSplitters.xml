@@ -3784,11 +3784,11 @@
             <Game>Super Kiwi 64</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/samjones246/superkiwi64-asl/master/superkiwi64.asl</URL>
+            <URL>https://raw.githubusercontent.com/Duxtemporis/SuperKiwi64ASL/refs/heads/main/superkiwi64.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/76750096863b03e7ebfdf748aef6d5d9464176a4/lib/asl-help</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Auto start/split/reset and load removal supported (By CaptainRektbeard)</Description>
+        <Description>Auto start/split/reset and load removal supported (By CaptainRektbeard, Maintained by Duxtemporis)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
